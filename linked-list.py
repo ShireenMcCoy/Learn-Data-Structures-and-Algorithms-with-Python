@@ -1,4 +1,5 @@
-# Find the nth from last node in a linked list.
+# Find the nth from last node in a singly linked list, where you can only traverse it in one direction.
+
 # An exercise from the "Learn Data Structures and Algorithms With Python" 
 # course on CodeCademy
 
