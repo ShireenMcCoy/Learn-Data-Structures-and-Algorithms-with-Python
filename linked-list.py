@@ -3,7 +3,7 @@
 # course on CodeCademy
 
 from LinkedList import LinkedList
-# LinkedList 
+# LinkedList is defined in a separate file on codecademy
 
 def nth_last_node(linked_list, n):
   nth_last_pointer = None
